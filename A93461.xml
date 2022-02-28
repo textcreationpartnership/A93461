@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The souldiers manual, or, Directions, prayers, and ejaculations for such as lead a military life. By A member of the Athenian Society.</title>
+            <author>Member of the Athenian Society.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93461</idno>
+            <idno type="STC">Wing S4426A</idno>
+            <idno type="STC">ESTC R184342</idno>
+            <idno type="EEBO-CITATION">43077635</idno>
+            <idno type="OCLC">ocm 43077635</idno>
+            <idno type="VID">151732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151732)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2274:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The souldiers manual, or, Directions, prayers, and ejaculations for such as lead a military life. By A member of the Athenian Society.</title>
+                  <author>Member of the Athenian Society.</author>
+               </titleStmt>
+               <extent>[3], 4-24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. Dawks, for John Dunton, at the Raven in the Poultry,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  Religious life --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151732:1" rendition="simple:additions"/>
+            <p>THE <hi>Souldiers</hi> MANUAL: OR, Directions, Prayers, and Ejaculations For ſuch as Lead
+<hi>A Military Life.</hi>
+            </p>
+            <p>By a Member of the <hi>Athenian</hi> Society.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I. Dawks,</hi> for <hi>John Dunton,</hi> at the <hi>Raven</hi> in the <hi>Poultry.</hi>
+            </p>
+            <p>Price 2 <hi>d.</hi> or an Hundred of 'em ſtitch'd up in <hi>Blew Paper</hi> for 14 <hi>s.</hi> to thoſe Gentlemen <hi>(or Officers in His Majeſty's Army)</hi> that buy 'em to diſperſe.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151732:2" rendition="simple:additions"/>
+            <head>DEDICATION. To all Their MAJESTIES Forces by Sea or Land.</head>
+            <opener>
+               <salute>Dear Country-men!</salute>
+            </opener>
+            <p>ACcept this <hi>little Manual</hi> from thoſe that <hi>Love</hi> you as their <hi>own Souls,</hi> and would as willingly <hi>venture,</hi> or <hi>loſe</hi> their <hi>Lives</hi> for that <hi>Glorious Cauſe</hi> in which you are engag'd, as you <hi>your ſelves</hi> can do it! Had we any thing <hi>better</hi> to <hi>preſent</hi> you, you ſhould have it: But as this is, if you follow the <hi>Directions</hi> herein <hi>contained,</hi> you'll not fail to
+<hi>ſecure</hi> what's of more <hi>value</hi> than all the <hi>World.</hi> It's most of it a
+<hi>Collection</hi> from the Works of ſuch great Men as are <hi>above Cenſure,</hi> and who are now receiving their <hi>Reward;</hi> and <hi>contracted</hi> as much as poſ<g ref="char:EOLhyphen"/>ſible, to be of more <hi>general Uſe.</hi> May the <hi>Lord</hi> of <hi>Hoſts bleſs</hi> it to you, and
+<hi>bleſs</hi> you all, gi<g ref="char:EOLhyphen"/>ving you <hi>Victory</hi> over your <hi>Sins</hi> and
+<hi>Enemies,</hi> and helping you by <hi>Faith</hi> to <hi>ſubdue Kingdoms,</hi> like the
+<hi>Primitive Worthies.</hi> Which <hi>is</hi> and <hi>ſhall</hi> be the <hi>hearty</hi> and
+<hi>daily Prayer</hi> of,</p>
+            <closer>
+               <salute>Dear Country-men!</salute>
+               <signed>
+                  <hi>Your,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="manual">
+            <pb facs="tcp:151732:2"/>
+            <head>THE SOULDIERS Manual.</head>
+            <argument>
+               <p>THIS <hi>Short Manual</hi> conſiſts of the fol<g ref="char:EOLhyphen"/>lowing Heads:</p>
+               <p n="1">I. Directions for every <hi>Morning.</hi> II. <hi>Morning Prayer.</hi> III. Directions for
+<hi>Even<g ref="char:EOLhyphen"/>ing.</hi> IV. A Prayer for <hi>King William</hi> and the <hi>Confederates,</hi> to be ſaid Morning and Evening. V. A Prayer before <hi>Battel,</hi> and <hi>Ejaculations</hi> in it. VI. Behaviour and <hi>Thanksgiving</hi> after <hi>Vi<g ref="char:EOLhyphen"/>ctory.</hi> VII. Directions in
+<hi>Sickneſs,</hi> with <hi>Pray<g ref="char:EOLhyphen"/>ers</hi> and <hi>Devotions.</hi>
+               </p>
+            </argument>
+            <div n="morning" type="directions">
+               <head>I. <hi>Directions for</hi> every Morning.</head>
+               <p n="1">1. As ſoon as you awake, look up to God, and ſay;
+<q rend="margQuotes">I laid me down and <hi>ſlept;</hi> I awaked, for the <hi>Lord ſuſtained</hi> me. I will not be a<g ref="char:EOLhyphen"/>fraid for <hi>Ten Thouſands</hi> of the People that
+<hi>ſet</hi> themſelves againſt me round about.</q>
+               </p>
+               <p n="2">2. Immediately after this, and before the more <hi>Solemn Devotions,</hi> think with your ſelf, (1.) What Sins you have committed ſince the laſt Night, in Thought, Word or Deed, hum<g ref="char:EOLhyphen"/>bling your ſelf for the ſame before God. (2.) What <hi>Temptations</hi> you are like to meet with that <hi>Day,</hi> and by what means you have been formerly <hi>drawn</hi> into <hi>Sin, arming</hi> your ſelf
+<pb n="4" facs="tcp:151732:3"/> againſt 'em, by <hi>Faith</hi> and <hi>Prayer,</hi> and reſolving to avoid both the <hi>Sin,</hi> and as much as poſſible the <hi>Occaſion</hi> of it. (3.) What
+<hi>Good</hi> ye may do, by <hi>preventing</hi> or <hi>reproving</hi> and
+<hi>diſcountenancing</hi> the <hi>Sins</hi> of others, or <hi>exhorting</hi> 'em to
+<hi>Piety</hi> and <hi>Virtue;</hi> encouraging them therein both by <hi>Word</hi> and
+<hi>Example.</hi>
+               </p>
+            </div>
+            <div n="morning" type="prayer">
+               <head>
+                  <hi>II.</hi> Then Kneeling down (if the Place permits) ſay <hi>humbly</hi> and
+<hi>devoutly</hi> (if you have no better) this <hi>MORNING PRAYER.</hi>
+               </head>
+               <p>O Almighty Lord God, the great <hi>Creator</hi> and <hi>Governor</hi> of all things, in whom I
+<hi>live, move,</hi> and have my <hi>Being!</hi> I thy unworthy <hi>Creature</hi> humbly
+<hi>proſtrate</hi> my ſelf before thee, to offer up my <hi>Morning Sacrifice</hi> of
+<hi>Prayer</hi> and <hi>Praiſe,</hi> for all thy <hi>Goodneſs</hi> which endures for ever. I
+<hi>Bleſs</hi> thee for my <hi>Creation</hi> and <hi>Preſervation,</hi> my Life, [Health, Strength] and all thoſe <hi>outward</hi> Bleſſings I enjoy;<note n="†" place="margin">Here mention any late Delive<g ref="char:EOLhyphen"/>rance, or other Mercy.</note> the Mercies of the [Night] paſt, and of all my <hi>Life:</hi> But above all, for <hi>thine ineſtimable</hi> Love in the
+<hi>Re<g ref="char:EOLhyphen"/>demption</hi> of the World by our <hi>Lord Jeſus</hi> Chriſt, who by his once offering himſelf upon the <hi>Croſs,</hi> did there make a full, perfect and ſufficient
+<hi>Sacrifice,</hi> Oblation and <hi>Satisfaction</hi> for our Sins. I <hi>bleſs</hi> thee for being born in thy <hi>peculiar Fold,</hi> the <hi>Chriſtian Church,</hi> and early
+<hi>Conſecrated</hi> to thee by <hi>Baptiſm,</hi> and the graci<g ref="char:EOLhyphen"/>ous Aſſiſtance of thy
+<hi>Holy Spirit,</hi> towards the performance of the <hi>Vow</hi> which I then made unto thee; and for thy <hi>Patience</hi> and <hi>Long-ſuffering;</hi> that thou haſt not <hi>forſaken</hi> me for the many <hi>Breaches</hi> thereof, nor yet <hi>cut</hi> me off in
+<pb n="5" facs="tcp:151732:3"/> the <hi>midſt</hi> of my <hi>days,</hi> and in the very <hi>Act</hi> of
+<hi>Sin,</hi> which I muſt acknowledge I have moſt <hi>righteouſly deſerved.</hi>
+               </p>
+               <p>For, O Lord! I muſt own with <hi>ſhame</hi> and confuſion of <hi>Face,</hi> that I have moſt grievouſly <hi>offended</hi> againſt thee. I was <hi>ſhapen</hi> in <hi>Iniquity</hi> and conceived in <hi>Sin:</hi> My heart is by Nature <hi>deceitful</hi> above all things, and
+<hi>deſperately wick<g ref="char:EOLhyphen"/>ed,</hi> neither can I tell how often I have actually
+<hi>tranſgreſſed,</hi> in <hi>Thought, Word</hi> and <hi>Deed,</hi>
+                  <note n="†" place="margin">Here mention the chiefeſt of your Sins.</note> ſlighting both thy <hi>Mercies</hi> and thy <hi>Judgments,</hi> and renewed <hi>offers</hi> of <hi>Pardon</hi> upon my
+<hi>Repentance</hi> and <hi>Obe<g ref="char:EOLhyphen"/>dience.</hi> Or if at any time I have reſolved to
+<hi>forſake</hi> my Sins, ſoon returning to them again like a <hi>Dog</hi> to his
+<hi>Vomit.</hi> What therefore re<g ref="char:EOLhyphen"/>mains for me, but a <hi>fearful looking</hi> for of <hi>fiery Indignation,</hi> which is the juſt <hi>reward</hi> of my <hi>Ini<g ref="char:EOLhyphen"/>quities?</hi> What can I expect but thy <hi>Wrath</hi> and <hi>Vengeance,</hi> both in this Life, and that to come?</p>
+               <p>But there is <hi>forgiveneſs</hi> with thee, that thou mayſt be feared: Thou haſt laid
+<hi>help</hi> upon one that is <hi>mighty,</hi> and haſt ſent thy <hi>Dear Son</hi> to
+<hi>die</hi> for us, and to ſave his <hi>People</hi> from their Sins.</p>
+               <p>O fit me for that Mercy which he has pur<g ref="char:EOLhyphen"/>chaſed for me, by a true Sence of all my
+<hi>Tranſ<g ref="char:EOLhyphen"/>greſſions,</hi> a hearty <hi>ſorrow</hi> for them, and <hi>hatred</hi> of them, and a conſtant and ſincere <hi>reſolution</hi> and endeavour, never more to be
+<hi>guilty</hi> of them.</p>
+               <p>And ſince I am not able of <hi>my ſelf to help my ſelf,</hi> or do any <hi>good action,</hi> grant me thy Grace, O <hi>giver</hi> of all <hi>Grace,</hi> that I may <hi>know</hi> and <hi>do</hi>
+                  <pb n="6" facs="tcp:151732:4"/> thy <hi>Bleſſed Will.</hi> Work in me a true <hi>Faith,</hi> a firm
+<hi>Hope</hi> and Truſt in thee; and unfeigned <hi>Love</hi> to thee, <hi>Zeal</hi> for thee,
+<hi>Reverence</hi> of what<g ref="char:EOLhyphen"/>ever is related unto thee, and <hi>Fear</hi> to offend thee;
+<hi>Thankfulneſs</hi> for thy Mercies, <hi>Submiſſion</hi> to thy Providences,
+<hi>Devotion</hi> in thy Service, <hi>Sorrow</hi> for my Sins: Make me <hi>meek,</hi> and
+<hi>con<g ref="char:EOLhyphen"/>tented,</hi> and <hi>humble; juſt</hi> and <hi>charitable; ſober</hi> and
+<hi>temperate,</hi> and <hi>couragious,</hi> and <hi>merciful!</hi> Create in me a <hi>new Heart, ſanctifie</hi> me in Body, Soul and Spirit, and <hi>preſerve</hi> me to thy hea<g ref="char:EOLhyphen"/>venly Kingdom!</p>
+               <p>With me, I beſeech thee, O Father of Mer<g ref="char:EOLhyphen"/>cies, have mercy upon <hi>all Men:</hi> All Jews, Turks, Idolaters, Infidels and Hereticks, that they may be turned from <hi>Darkneſs</hi> to
+<hi>Light,</hi> and from the Power of <hi>Satan</hi> to God.</p>
+               <p>Bleſs the <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Church,</hi> eſpecially the <hi>Reformed Churches,</hi> and particularly the <hi>Church</hi> of <hi>England,</hi> and give us Grace ſo deeply to repent us of our <hi>Sins,</hi> and throughly to ac<g ref="char:EOLhyphen"/>knowledge our unworthineſs, that thou mayſt have
+<hi>mercy</hi> upon us, that we may not <hi>periſh.</hi> Bleſs with the choiceſt of thy Bleſſings our <hi>Sovereign Lord and Lady King</hi> William <hi>and Queen</hi> Mary: Strengthen their Friends, and ſubdue their <hi>Enemies;</hi> give 'em Wiſdom to go in and out before this great People, and <hi>Grace</hi> to puniſh <hi>Wickedneſs</hi> and <hi>Vice,</hi> and
+<hi>main<g ref="char:EOLhyphen"/>tain</hi> thy true <hi>Religion</hi> and <hi>Virtue:</hi> Let their <hi>Reign</hi> be long and happy, and after this Life crown 'em with <hi>eternal Glory.</hi> Pity all that are in
+<hi>Affliction,</hi> eſpecially thoſe that ſuffer for <hi>Righteouſneſs</hi> ſake, and the <hi>Defence</hi> of thy <hi>true Religion.</hi> Bleſs my <hi>Friends,</hi> and forgive my
+<pb n="7" facs="tcp:151732:4"/> 
+                  <hi>Enemies:</hi> Preſerve me this [Day] from <hi>Sin</hi> and
+<hi>Danger,</hi> and give thy <hi>Holy Angles charge</hi> over me. Forgive my <hi>Infirmities,</hi> and deal with me not according to my <hi>Merits,</hi> but thy <hi>Mer<g ref="char:EOLhyphen"/>cies</hi> in Jeſus, thy Son, and my <hi>alone Saviour,</hi> in whoſe Name and Words I conclude my im<g ref="char:EOLhyphen"/>perfect Prayers, ſaying as he has taught me: <hi>O<g ref="char:V">Ʋ</g>R FATHER, &amp;c.</hi>
+               </p>
+            </div>
+            <div n="evening" type="directions">
+               <head>
+                  <hi>III.</hi> Directions for Evening.</head>
+               <p n="1">1. As in the Morning — Enquire what <hi>Sin</hi> you have <hi>committed,</hi> and how you came to <hi>fall</hi> into it. 2. What <hi>Good</hi> omitted, and for what reaſons; humbling your ſelf before <hi>God,</hi> making new <hi>reſolutions</hi> to be more upon your
+<hi>guard</hi> for the future. 3. If no remarkable <hi>fault</hi> or <hi>omiſſion,</hi> if you have done any <hi>Good,</hi> or re<g ref="char:EOLhyphen"/>ceived any <hi>Mercy or Deliverance,</hi> or been
+<hi>pre<g ref="char:EOLhyphen"/>ſerved</hi> even from the <hi>fear</hi> of <hi>Evil;</hi> heartily bleſs God for it. 4. Repeat the Morning Prayer, only changing the Words [Day] or [Night] as the Sence requires. 5. If lying down, think upon the Grave and Death; and before you go to ſleep ſay, <hi>I will lay me down in</hi> peace <hi>and take my</hi> reſt, <hi>for 'tis</hi> thou <hi>Lord only that makeſt me dwell in</hi> ſafety. <hi>Into thy hands I commend my</hi> Spirit, <hi>for thou haſt redeemed me, O Lord thou God of</hi> Truth.</p>
+               <p>If upon <hi>Duty — Meditate</hi> on <hi>good Things:</hi> If you can, read God's
+<hi>Word,</hi> or any <hi>good Book:</hi> If not, read his <hi>Works.</hi> Look into the Heavens the <hi>Works</hi> of his <hi>Fingers,</hi> the <hi>Moon</hi> and <hi>Stars</hi> which he hath ordained, and thence argue the <hi>Wiſdom</hi> and <hi>Power</hi> of their <hi>Maker,</hi> and praiſe him for them; ſaying with the Pſalmiſt, <hi>At</hi> Midnight will I <hi>praiſe him, becauſe of his</hi> righte<g ref="char:EOLhyphen"/>ous Judgments.</p>
+            </div>
+            <div n="morning and evening" type="prayer">
+               <pb n="8" facs="tcp:151732:5"/>
+               <head>
+                  <hi>IV.</hi> After Morning and Evening Devotions, always add this <hi>Prayer</hi> for His
+<hi>MAJESTY</hi> and the <hi>CONFEDERATE</hi> Princes.</head>
+               <p>ALmighty and moſt Gracious God, who haſt in all ages ſhown thy <hi>Power</hi> and
+<hi>Providence</hi> in the raiſing up Pious and Religious <hi>Princes,</hi> to be the
+<hi>Savers</hi> and <hi>Deliverers</hi> of thy <hi>People,</hi> and haſt promiſed, that
+<hi>Kings</hi> ſhall be <hi>Nurſing Fathers,</hi> and <hi>Queens Nurſing Mothers</hi> to thy
+<hi>Church.</hi> I yield thee hearty thanks for raiſing up thy Servant King <hi>William</hi> to be the happy <hi>Inſtrument</hi> of our <hi>Deliverance,</hi> by whom thou haſt preſerved thy
+<hi>pure Religion</hi> amongſt us, and all beſides that is <hi>dear</hi> unto us. Prai<g ref="char:EOLhyphen"/>ſed be thy Name, for thy wonderful <hi>Preſer<g ref="char:EOLhyphen"/>vation</hi> of him from all thoſe great Dangers to which he has been expoſed both by <hi>Sea</hi> and <hi>Land!</hi> And moſt humbly I beſeech thee ſtill to continue him under the merciful <hi>Care</hi> and <hi>Pro<g ref="char:EOLhyphen"/>tection</hi> of thy good
+<hi>Providence,</hi> to <hi>preſerve</hi> him from all <hi>ſecret</hi> and <hi>treacherous Practices</hi> and <hi>Attempts,</hi> to <hi>ſtand</hi> by him, and to cover his <hi>Head</hi> in the day of <hi>Danger,</hi> and to bleſs him with Victory and all <hi>good Succeſs!</hi> Viſit him as thou didſt viſit <hi>Moſes</hi> in the <hi>Buſh, Gideon</hi> in the
+<hi>Field,</hi> and <hi>Joſhua</hi> in the <hi>Battel;</hi> and by him be pleaſed in thy own good time to accom<g ref="char:EOLhyphen"/>pliſh that <hi>great work</hi> which thou haſt begun, for the
+<hi>Salvation</hi> of thy <hi>People,</hi> and <hi>Confuſion</hi> of thy <hi>Enemies.</hi> Be pleaſed alſo to Bleſs all thoſe <hi>Princes</hi> which are <hi>joined together</hi> with him in the juſt <hi>Defence</hi> of their <hi>Countries,</hi> and the <hi>Liberties</hi> of
+<hi>Europe;</hi> and give ſuch ſucceſs to their <hi>Arms,</hi> that they may <hi>humble</hi> the <hi>Pride</hi> of him who is the <hi>great Troubler</hi> of the <hi>World.</hi>
+               </p>
+               <p>
+                  <pb n="9" facs="tcp:151732:5"/>Grant this, O Lord, for thy Mercies ſake in Jeſus Chriſt our bleſſed
+<hi>Lord</hi> and <hi>Saviour. Amen.</hi>
+               </p>
+            </div>
+            <div n="battle" type="preparation">
+               <head>
+                  <hi>V.</hi> Preparation and Prayer before a <hi>Fight,</hi> and <hi>Ejaculations</hi> in it.</head>
+               <p n="1">1. Prepare as for Death, and think of no<g ref="char:EOLhyphen"/>thing but <hi>that</hi> or <hi>Victory,</hi> and in order there<g ref="char:EOLhyphen"/>unto firſt <hi>Examine</hi> the <hi>State,</hi> the <hi>Condition</hi> of your
+<hi>Soul;</hi> for ſure you have <hi>Souls</hi> to be ſaved as well as <hi>others,</hi> and think not, that being of the right <hi>Side,</hi> or very <hi>dying</hi> for it, or your
+<hi>Country</hi> and <hi>Religion,</hi> will ſave you, un<g ref="char:EOLhyphen"/>leſs you have <hi>repented</hi> of your <hi>Sins,</hi> and are <hi>reconciled</hi> to <hi>God.</hi> Since then you mayn't have many
+<hi>moments</hi> to live in this <hi>World,</hi> you can't doubt but 'tis the higheſt Wiſdom to ſecure a <hi>better.</hi> In order to which, ask your ſelf how you are <hi>prepared</hi> for't; and take this one ſhort infallible Rule, <hi>Whoſoever continues in the habit of any one</hi> wilful Sin, <hi>be it</hi> Swearing, Cruelty, Impurity, <hi>or whatever elſe, is not in</hi> God's Fa<g ref="char:EOLhyphen"/>vour, <hi>nor can, if he ſo die, expect any</hi> Mercy <hi>at his</hi> Hand.</p>
+               <p>Now there's no way to recover from this Condition, but <hi>Repentance</hi> and <hi>Faith:</hi> The firſt, <hi>Sorrow</hi> for <hi>Sin,</hi> and <hi>leaving</hi> it; the ſe<g ref="char:EOLhyphen"/>cond, an humble
+<hi>Truſt</hi> in <hi>God's Mercy</hi> for the ſake of Chriſt Jeſus, with a ſincere
+<hi>Obedience</hi> to his <hi>Commands.</hi> Without which <hi>Faith,</hi> 'tis impoſſible to
+<hi>pleaſe</hi> God; as without <hi>Repen<g ref="char:EOLhyphen"/>tance,</hi> we muſt all <hi>periſh.</hi>
+               </p>
+               <p>But becauſe theſe <hi>Graces</hi> require generally <hi>Time</hi> and <hi>Labour</hi> to be produced in the Mind, 'tis a more <hi>deſperate hazard</hi> to delay the <hi>getting</hi> 'em till ſuch an <hi>Exigence,</hi> than 'twould be to
+<pb n="10" facs="tcp:151732:6"/> put off your <hi>Arming</hi> your ſelf, 'till the <hi>Enemy</hi> were juſt upon you. Therefore make this the <hi>buſineſs</hi> of your <hi>Lives,</hi> and then you'll not want Comfort, at the approach or apprehen<g ref="char:EOLhyphen"/>ſion of <hi>Death.</hi>
+               </p>
+               <p>However, if this has been <hi>neglected</hi> before, now <hi>begin</hi> it; if <hi>practis'd, renew</hi> it. <hi>Humble</hi> your ſelf for your <hi>Sins,</hi> and <hi>cry</hi> for
+<hi>Mercy:</hi> ſay, <hi>God be merciful to me a Sinner;</hi> and, <hi>I Believe, Lord help my <g ref="char:V">Ʋ</g>nbelief.</hi>
+               </p>
+               <p n="2">2. When that's done, conſider <hi>What</hi> you are Fighting <hi>for,</hi> -your
+<hi>Country,</hi> -your <hi>Religion,</hi> the <hi>Liberties</hi> of <hi>Europe. Whom</hi> you are Fight<g ref="char:EOLhyphen"/>ing <hi>under,</hi> -King <hi>William. Whom</hi> you are Fighting againſt, -the
+<hi>French,</hi> whom you <hi>us'd</hi> to <hi>beat,</hi> when the <hi>odds</hi> was on
+<hi>their</hi> ſide; and they never you <hi>without</hi> it. Commend your <hi>Soul</hi> to God in the following † Prayer: and then <hi>Fall on</hi> in <hi>God's Name;</hi> and, May HE be with you!</p>
+               <p>But if any of you, as is but too much to be fear'd, thro' your rude and ignorant manner of Education, or thro' your <hi>long and daily converſe with Debauch'd and Irreligious Comrades,</hi> wherewith all, even the beſt of Armies ſwarm; or by your own negligence and wil<g ref="char:EOLhyphen"/>fulneſs, in ſlighting o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> contemning the Means of better Inſtruction, and the Holy Ordinances Inſtituted by God, for the working in us thoſe Graces of <hi>Repentance</hi> and <hi>Regeneration,</hi> ſo ne<g ref="char:EOLhyphen"/>ceſſary to Salvation, we have been diſcourſing of: I ſay, if any of you, by theſe or any other depraved diſpoſition of Mind or Body, or unlucky circumſtances of your Lives, have hitherto been ſo unhappy as to ſpend your
+<pb n="11" facs="tcp:151732:6"/> whole time in <hi>a continual courſe and habit of Sin,</hi> and particularly in thoſe which Men of your Vocation are moſt guilty of; as <hi>Oaths, Blaſphe<g ref="char:EOLhyphen"/>mies, Curſes, Damning your ſelves,</hi> or others; as likewiſe <hi>Drunkenneſs, <g ref="char:V">Ʋ</g>ncleanneſs, Malice, Wrath<g ref="char:EOLhyphen"/>ful</hi> and <hi>Fooliſh Quarrels, <g ref="char:V">Ʋ</g>njuſt Rapines, Bar<g ref="char:EOLhyphen"/>barous</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nmanly Cruelties, Rapes;</hi> and ſuch Bloodſhed as is downright Murther, and againſt all the Rules of War, as well as the Laws both of Nature and Chriſtianity: and in a word, have lived all along in all the <hi>groſs Sins,</hi> that Prophaneſs, Licenciouſneſs, and Atheiſtical Infidelity can inſpire; and now are come perhaps <hi>within view of a Battel,</hi> with a fierce and potent Enemy; by whoſe hands you know not how ſoon God may call you to an Account for all thoſe many <hi>Blaſphe<g ref="char:EOLhyphen"/>mous Vollies</hi> you have formerly ſhot againſt Heaven; and for all both your open and pri<g ref="char:EOLhyphen"/>vate Tranſgreſſions, and above all, for your obſtinacy and long impenitence in them: Yet let not therefore Deſpair ſeize your Hearts, nor <hi>'pall your Courage againſt Men, or take off the Point of your Faith towards God:</hi> but rather increaſe, and add a double Vigour to both. Tis true, the Work of Faith, or Repentance, and much leſs of what crowns both, <hi>a com<g ref="char:EOLhyphen"/>pleat Regeneration and Reformation,</hi> is not the work of a day, and much leſs of a <hi>few mo<g ref="char:EOLhyphen"/>ments;</hi> which a Man, who may be killed, may have in or before a Battel; nor are old <hi>Habits of Sin,</hi> or rooted wicked Cuſtoms ſo ſoon to be deſtroyed. But tho' this ought to make Men, that have time, to fear and tremble, and be afraid to deferr the work of Repentance
+<pb n="12" facs="tcp:151732:7"/> to the laſt; or make more work for it, than Humane Frailty forces them to; yet it ought not however to make them afraid of any thing elſe but <hi>Deſpair,</hi> or the Mother of it, final Impenitence, which only can Damn them at laſt; nor tempt them to throw away all <hi>Thoughts of Repentance,</hi> and Truſt in God's Mercy; which can, and will, and does actually Save many Souls, how wicked ſoever they have been before that make good uſe of thoſe
+<hi>laſt Moments,</hi> the ſhort time of the expecta<g ref="char:EOLhyphen"/>tion of a Battel gives them; in preparing themſelves with ſuch Pious <hi>Reflections and Reſolutions,</hi> as the effectual Proſpect of pre<g ref="char:EOLhyphen"/>ſent Death before them; and <hi>Retroſpection,</hi> and backward Glances upon their paſt Life behind them, will afford to them, that will give themſelves leave but to think
+<hi>ſeriouſly never ſo ſmall a while:</hi> And for their Comfort, let me tell them this; that Men of ſound Reaſon, <hi>(and none but ſuch can be truly Couragious,)</hi> how mad or hot-brain'd ſoever they have been at other times, or may be in the heat of Fight, will always have <hi>ſome Serious Thoughts,</hi> upon the ſight of an ap<g ref="char:EOLhyphen"/>proaching Foe: which well digeſted in their Minds, will redouble their Courage in Battel, fence them againſt all Surpriſes, which alone can cauſe Fear in a Valiant Soldier; and render their Hearts impenetrable to any Af<g ref="char:EOLhyphen"/>fright or Amazement. I ſay, 'tis almoſt impoſſible, that a Man of
+<hi>true Reaſon and Cou<g ref="char:EOLhyphen"/>rage,</hi> that orders his Thoughts aright before<g ref="char:EOLhyphen"/>hand, and conſiders the worſt of the dangers he is to encounter, before he comes at them,
+<pb n="13" facs="tcp:151732:7"/> or they reach him, can fear them at all when he is in them; becauſe he can find <hi>nothing in them that ſurpriſes him;</hi> nothing worſe than he expected, and nothing in fine, but what he is armed with a moſt invincible Reſolution againſt: And tho' perhaps in Battel you have but one Moment left to Pray in, and one Caſt for your Lives both in this and the other World; yet if you endeavour to Throw that well, you may Win both. What, tho' like
+<hi>Samſon,</hi> you have lived in <hi>De<g ref="char:EOLhyphen"/>bauchery,</hi> and reſiſted the Spirit of God? yet in Fighting for His Cauſe, as you do, and with ſuch Thoughts as I ſhall direct; tho' you like him fall in the Attempt, yet may you likewiſe become Victorious over thoſe <hi>Spiritual Philiſtins</hi> that have ſo oft aſſaulted your Souls; and Conquer them <hi>by your Death, and by that of your Saviour's;</hi> tho' you could never Subdue them in your Life. It is true, our Lord ſays 'tis harder for a <hi>Rich Man</hi> to enter into Hea<g ref="char:EOLhyphen"/>ven, than for a Camel to paſs thro' a Needles-eye: but yet He tells us, 'tis not impoſſible, for all that. And 'tis without doubt, at leaſt as hard for an <hi>Old Sinner</hi> to enter into Hea<g ref="char:EOLhyphen"/>ven, as for a <hi>Rich Man;</hi> and queſtionleſs very hard for a <hi>Death-bed</hi> or Momentary Repen<g ref="char:EOLhyphen"/>tance to obtain Salvation, becauſe 'tis ex<g ref="char:EOLhyphen"/>treamly dubious whether it can be real; but yet 'tis not impoſſible: for we ſee, <hi>the Thief on the Croſs</hi> was Saved with one ſingle Act of it, exerted a moment before he died. That Example indeed is <hi>but one:</hi> but yet it ſhows there may be, and is ſometimes more, or elſe the Example would be to no purpoſe:
+<pb n="14" facs="tcp:151732:8"/> And as it evidences on one ſide, that <hi>Conti<g ref="char:EOLhyphen"/>nuation</hi> in Sin, is extream dangerous; ſo on the other, it demonſtrates, that <hi>Deſpair</hi> is ſtill more ſo, and never to be entertained, even at our <hi>lateſt breath.</hi> But then it ought to be particularly conſidered, in favour of <hi>Souldiers,</hi> that a Late Repentance in them, may more juſtly be accounted true, and more likely to be accepted from them by God, than from a wicked man, that <hi>dies on his Bed:</hi> becauſe their Caſe every way comes nearer that of the <hi>Thief on the Croſs,</hi> and may, by God's Grace, and their ſtrong Endeavours, far exceed it in all acceptable qualifications. For a Man that has gone on all his life-time in Sin, and <hi>Dies in his Bed,</hi> has no opportuni<g ref="char:EOLhyphen"/>ties to give any marks of a true Repentance, but meer <hi>Wiſhes</hi> and <hi>Reſolves;</hi> of the Since<g ref="char:EOLhyphen"/>rity of which, God only is Judge: Whereas a <hi>Soldier,</hi> that will but ſeriouſly employ a <hi>few moments</hi> before a Battel, or while he is alive, even in a Surprize, in ſuch <hi>Thoughts</hi> and
+<hi>Reſolves,</hi> as he may have by due appli<g ref="char:EOLhyphen"/>cation to God; he may in great meaſure ſhew the Truth of his Repentance, and repair, tho' in a <hi>ſhort ſcantling</hi> of time, the Errours of his whole Life-paſt; and Entitle himſelf to all the Advantages of the Blood of his
+<hi>Suffering Saviour.</hi> For let a <hi>Soldier,</hi> how wild and wicked ſoever before he has been, but thus Think and Reſolve when he goes to Fight, and if he does it ſincerely; never let him <hi>fear Victory</hi> for his Soul, tho' the firſt Bullet that comes next ſhould part it from his Body. Let him, I ſay, thus Think and
+<pb n="15" facs="tcp:151732:8"/> Reſolve: Have I been ignorant, by Careleſ<g ref="char:EOLhyphen"/>neſs or Education hitherto, of
+<hi>the Saving Knowledge of Faith and Repentance, Lord, yet according to my imperfect Notions, I Believe and Repent, help my Imperfect Repentance, and my <g ref="char:V">Ʋ</g>nbelief;</hi> I will, if I out-live this Battel, endeavour for better Inſtruction, by fre<g ref="char:EOLhyphen"/>quenting thy <hi>Miniſters</hi> and
+<hi>Holy Ordinances.</hi> Have I been guilty of <hi>Damning, Swearing, Curſing, Blaſphemy, Intemperance,</hi> and the reſt of the Sins that ſtick ſo cloſe to Men of my Profeſſion; I will endeavour to abſtain from 'em, and all thoughts of 'em, during the Fight, and ſtrive againſt them with more care here<g ref="char:EOLhyphen"/>after. I will not fear my Enemies, but my GOD only: and tho' I have ſpent my Life in the <hi>Devil's Service,</hi> I will endeavour to ſacrifice the <hi>laſt moments of it to GOD,</hi> by Fighting for His True Worſhip and Cauſe: I will with my beſt Blood endeavour to Pur<g ref="char:EOLhyphen"/>chaſe a glorious and happy Quiet for His Church and People: And tho' my Tongue has been <hi>falſe and injurious</hi> to Him, with Raſh Oaths and Execrations; yet my <hi>Sword ſhall prove the Sincerity of my Good Intentions:</hi> And if Time, and the <hi>black fortune</hi> of this days Action, will not permit my future Amend<g ref="char:EOLhyphen"/>ment of Life to ſpeak it; yet my willing and reſigned Death ſhall Proclaim it, and <hi>my Hearts Blood ſhall Seal the Truth of my Re<g ref="char:EOLhyphen"/>pentance.</hi> And tho' my Dear Saviour's Dying for me, had not power enough 't influence me to Live to him; yet ſhall it work Love enough in me, to Dye for him, and for the maintenance of the True Obſervation of his
+<pb n="16" facs="tcp:151732:9"/> Goſpel by others; tho' to my Sorrow, and moſt hearty Grief, I never truly obſerved it my ſelf. <hi>Lord, thou that art able to Save, hear my inward Prayers, and ſtrong Cries and Tears,</hi> and deliver me to ſerve thee, or ſerve thy ſelf of my death; and let the Me<g ref="char:EOLhyphen"/>rits and Blood of my Deareſt Saviour atone for all my Sins, and former Diſobedience. Let our <hi>Prodigal Soldier,</hi> tho' on the brink of Death, thus think and reſolve when he Fights; and let him <hi>fear no Enemy, nor dread no Devil:</hi> no doubt but he will find God a merciful and tender Father to receive him, and his blood ſpent in ſo <hi>Glorious a Cauſe,</hi> as for the <hi>True Religion, and his Country,</hi> will prove next to a <hi>ſecond Baptiſm,</hi> to entitle him a<g ref="char:EOLhyphen"/>new to Chriſts Benefits, and repair the old. Pretenſions he had forfeited by his wicked life. Neither is this a <hi>New Sentiment;</hi> the Old Chriſtians thought the ſame, and believed, that the <hi>Blood of the Martyrs,</hi> tho' they had been but a moment before Converted, waſhed away all former Sins, by a full application of Chriſt's Blood; and ſupplied even the
+<hi>want of Baptiſm</hi> it ſelf. Let then none of your <hi>Brave Hearts</hi> deſpond; gratifie not your Enemies the Devils, or his Inſtruments the Papiſts, with any Deſpair: There is <hi>no Crime ſo Black,</hi> againſt even an Earthly Prince, but an offending Subject may waſh off by a <hi>Bold Service;</hi> or by ſhewing his Repentance, by a Sacrifice of his Life, for the ſupport or defence of his <hi>Sovereign's Crown:</hi> no doubt of a Pardon for that Man, whether <hi>he lives or dies:</hi> And ſhall we think our <hi>Heavenly Prince</hi>
+                  <pb n="17" facs="tcp:151732:9"/> any leſs merciful, or reconcilable than an earthly one? No! He has declared,
+<hi>At what ſoever time a Sinner ſhall repent, he will receive him.</hi> Be Comforted then, all you <hi>Military Souls,</hi> that have ſo long lain in Sin: and let not that thought diſcourage you, becauſe you want time to Repent, from Looking up to God, or Facing your Enemies and his:
+<hi>But be ſtrong, and ſhew your ſelves Valiant, for your People, and the Cities of your God:</hi> and then ſubmit to him, and let him do what is good in his eyes; as <hi>Joab</hi> counſels, 1 <hi>Chron.</hi> 1.30. and without all doubt your Souls will be ſafe, and you will have both the <hi>Crown and Reward of Martyrs;</hi> For if they were counted Martyrs, that loſt their Blood under Perſecutors, what can you be leſs, if you likewiſe fall by the Sword of the worſt Perſecutors of God and his People, that ever yet were in <hi>Europe.</hi> The <hi>Thief on the Croſs,</hi> ſuffered indeed with Chriſt, but could not ſuffer for him but by Sympathy: But you, if you dye, both ſuffer with him and for him, in the moſt Glorious Cauſe that ever was contended for ſince Chriſtianity. You Fight, and ſpend your Blood, <hi>for the Lives, Liberties, and Properties of all Chriſtians;</hi> and for the Defence and Safety of the Proteſtant Religion, and the Priviledges of both King and People in your Native Country; in which are the Cities and Places inhabited by a People, for whom he has ſo many times, and in ſo many
+<hi>wonderfull manners,</hi> evidently appeared. And therefore you need not doubt, if he chuſes your Arms, and your Blood now
+<pb n="18" facs="tcp:151732:10"/> again, for the Defence of ſo Glorious a Quar<g ref="char:EOLhyphen"/>rel; that he will accept them, and forgive all your Sins: Provided you will make but that Pious and Wiſe Uſe of the
+<hi>ſhort moments</hi> he ſhall lend you, in the intervals before or in an Engagement, which I have Adviſed: <hi>Angels</hi> ſhall then guard you up, with the joyful Sound of <hi>Heavenly Trumpets,</hi> into Para<g ref="char:EOLhyphen"/>diſe; your <hi>Souls</hi> ſhall live with God, and your Memories with your Country-men, if left Happy at the Expence of your Blood: and <hi>Future Hiſtories</hi> ſhall Preſerve your <hi>Valour</hi> to all ſucceeding Ages. And thus, you that will but come in, tho' at the <hi>laſt hour,</hi> ſhall Receive Equal of your <hi>Heavenly Maſter,</hi> with them that came in at the <hi>firſt.</hi>
+               </p>
+            </div>
+            <div n="before battle" type="prayer">
+               <head>† <hi>2.</hi> Prayer before an Engagement.</head>
+               <p>O Lord our God, to whom <hi>Vengeance</hi> be<g ref="char:EOLhyphen"/>longeth, who beholdeſt ungodlineſs and wrong and cruelty and oppreſſion; thou Lord of Hoſts and God of <hi>Battels,</hi> who ſitteſt upon thy Throne and judgeſt right. We make our Addreſs to thee in our Neceſſity, that thou would'ſt take the <hi>Cauſe</hi> into thy <hi>own Hand,</hi> and judge between us and our Ene<g ref="char:EOLhyphen"/>mies. Stir up thy Strength, Lord, and come and help us; for thou giveſt not always the Battel to the <hi>ſtrong,</hi> but canſt ſave by <hi>many</hi> or by <hi>few.</hi> O <hi>let not our</hi> Sins <hi>now cry againſt us for</hi> Vengeance, but <hi>hear</hi> us thy poor Ser<g ref="char:EOLhyphen"/>vants begging Mercy, and imploring Help; and that thou would'ſt be a <hi>Defence</hi> unto us, againſt the <hi>face</hi> of our <hi>Enemy.</hi> Make it appear, that thou art our
+<hi>Saviour,</hi> and mighty <hi>Deli<g ref="char:EOLhyphen"/>verer,</hi> thro' Jeſus Chriſt our Lord.
+<hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="in battle" type="prayer">
+               <pb n="19" facs="tcp:151732:10"/>
+               <head>
+                  <hi>3.</hi> Ejaculations in the Battel.</head>
+               <p>LET us be of Good Courage, and play the Men, for the Houſe of our God, and the City of our God; and the Lord do what ſeem<g ref="char:EOLhyphen"/>eth him Good.</p>
+               <p>Thro' thee, O God, ſhall we do great <hi>Acts;</hi> thro' thee ſhall we <hi>tread</hi> down our <hi>Enemies!</hi>
+               </p>
+               <p>O Lord ariſe, help us and <hi>deliver</hi> us for thine <hi>Honour!</hi> and let us not ſink under the <hi>Weight</hi> of our <hi>Sins,</hi> or the <hi>Violence</hi> of the <hi>Enemy.</hi> — O, Lord! <hi>preſerve</hi> me and my <hi>Friends,</hi> and <hi>forgive</hi> my
+<hi>Enemies.</hi>
+               </p>
+            </div>
+            <div n="after victory" type="prayer">
+               <head>
+                  <hi>VI.</hi> Directions and Prayer after a <hi>Victory.</hi>
+               </head>
+               <p>WHEN it ſhall pleaſe God to Bleſs our <hi>Good King,</hi> and the <hi>Confederates,</hi> with <hi>Succeſs</hi> againſt the <hi>Enemy;</hi> have a care of <hi>At<g ref="char:EOLhyphen"/>tributing</hi> it to an
+<hi>Arm</hi> of <hi>Fleſh,</hi> which is ſo unbecoming a <hi>Chriſtian:</hi> and avoid
+<hi>Cruelty,</hi> or <hi>Inſulting</hi> over the <hi>Vanquiſhed;</hi> both which are below the Generoſity of an <hi>Engliſh-man.</hi> Say, <hi>Not unto us, O Lord! not unto us, but to thy Name be all the Glory.</hi> — And as ſoon as con<g ref="char:EOLhyphen"/>venience permits, ſay humbly and devoutly this or the like Prayer unto God.</p>
+            </div>
+            <div n="after battle" type="prayer">
+               <head>Thankſgiving after <hi>Victory.</hi>
+               </head>
+               <p>
+                  <hi>O</hi> Almighty God, the Sovereign Commander of all the World, in whoſe hand is
+<hi>Power</hi> and <hi>Might,</hi> which none is able to withſtand. <hi>Bleſſing</hi> and
+<hi>Praiſe</hi> be to thy <hi>Great</hi> and <hi>Glorious Name,</hi> for this happy
+<hi>Victory,</hi> the whole <hi>Glory</hi> whereof be aſcribed to Thee, who art the <hi>only Giver</hi> of it. And we beſeech thee, give us Grace to improve this great Mercy to thy
+<hi>Glory,</hi> the Advancement of thy <hi>Goſpel,</hi> the Honour of our <hi>Sovereign,</hi> and as much as in us lies, the <hi>Good</hi> of All <hi>Mankind.</hi>
+                  <pb n="20" facs="tcp:151732:11"/> And we beſeech thee, give us ſuch a <hi>Sence</hi> of this <hi>Great Mercy,</hi> as may engage us to a true <hi>Thank<g ref="char:EOLhyphen"/>fulneſs,</hi> ſuch as may appear in our
+<hi>Lives,</hi> by an humble, holy, and obedient <hi>walking</hi> before thee all our days, thro' Jeſus Chriſt our Lord; to whom with thee and the <hi>Holy Spirit,</hi> as for all thy
+<hi>Mercies,</hi> ſo in particular for this <hi>Victory</hi> and <hi>Deliverance,</hi> be all Glory and Honour, World wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hout end.
+<hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="sickness" type="directions">
+               <head>
+                  <hi>VII.</hi> Directions in Sickneſs.</head>
+               <p n="1">I. IF poſſible, get your <hi>Chaplain</hi> to aſſiſt you with the <hi>Churches Prayers,</hi> that on your <hi>Penitent Confeſſion,</hi> you may receive the Bene<g ref="char:EOLhyphen"/>fit of his
+<hi>Abſolution</hi> and <hi>Advice.</hi>
+               </p>
+               <p n="2">2. In <hi>Order</hi> to which, or at leaſt to Receive <hi>Forgiveneſs</hi> from God, tho' you ſhould not have the <hi>happineſs</hi> to hear it <hi>declar'd</hi> and
+<hi>pronounc'd</hi> by his <hi>Miniſter;</hi> ſet about a <hi>ſerious</hi> and <hi>exact Review</hi> of your <hi>Life</hi> paſt; a Tryal of your <hi>State</hi> and <hi>Actions:</hi>
+               </p>
+               <p n="1">I. The <hi>End,</hi> for which you <hi>engage</hi> in the <hi>War:</hi> — which if only <hi>Gain,</hi> or any ſuch mean <hi>Proſpect;</hi> rather than the <hi>Excellency</hi> of the <hi>Cauſe,</hi> and <hi>Love</hi> to your <hi>Country</hi> and <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> you are now to <hi>Repent</hi> of, and heartily ask <hi>Pardon</hi> for it.</p>
+               <p n="2">II. The <hi>Manner</hi> how you have Proſecuted it- What Life you have led - Whether you have obſerv'd thoſe good Leſſons; <hi>Do</hi> Vio<g ref="char:EOLhyphen"/>lence <hi>to no</hi> Man, <hi>no</hi> Friend, <hi>by</hi> Plunder, <hi>&amp;c. and be</hi> content <hi>with your Wages: Be not</hi> muti<g ref="char:EOLhyphen"/>nous <hi>or</hi> unruly? Whether you have not been <hi>cowardly</hi> in <hi>Fight,</hi> or
+<hi>cruel</hi> in <hi>Victory,</hi> or born <hi>malice</hi> againſt any: Ha'nt thought your ſelf like the Sons of <hi>Belial;</hi> — without <hi>Yoak</hi>
+                  <pb n="21" facs="tcp:151732:11"/> or <hi>Law,</hi> either of <hi>God</hi> or <hi>Man:</hi> — Bin
+<hi>lewd,</hi> or <hi>atheiſtical,</hi> or <hi>impious;</hi> or have Encourag'd others in the ſame or other Crimes. If you have <hi>wrong'd</hi> any <hi>Man,</hi> as far as poſſible to make <hi>Reſtitution.</hi> — If you have offended God, never to be at reſt, 'till you find your ſelf truly <hi>ſorrowful</hi> for it; begging <hi>Pardon,</hi> for his Dear Son Jeſus Chriſt's ſake; who has aſſur'd us, That thoſe who <hi>come</hi> unto him, he will in no wiſe <hi>caſt off.</hi>
+               </p>
+               <p n="3">3. Reſolve by God's Grace, if he thinks good to reſtore you, to <hi>amend</hi> your
+<hi>Life,</hi> and <hi>reform</hi> whatever you have now found <hi>amiſs:</hi> and Pray heartily for the help of his <hi>Holy Spi<g ref="char:EOLhyphen"/>rit,</hi> in the bringing thoſe <hi>Reſolutions</hi> to a good
+<hi>Effect:</hi> ſince otherwiſe they'll be but as the <hi>Morning Cloud,</hi> and <hi>Early Dew,</hi> that ſoon paſſes away. To whom you may Addreſs your ſelf in theſe or the like Words; or get ſome other to do it for you.</p>
+            </div>
+            <div n="sickness" type="prayer">
+               <head>A Prayer in the time of <hi>Sickneſs,</hi> or any other <hi>Affliction.</hi>
+               </head>
+               <p>O Juſt and Holy Lord, who with <hi>Rebukes</hi> doſt <hi>chaſten</hi> Man for Sin, and yet doſt always puniſh <hi>leſs</hi> than our <hi>Iniquities</hi> deſerve. I deſire unfeignedly to humble my ſelf under thy <hi>mighty hand,</hi> which now lies <hi>heavy</hi> upon me; I heartily acknowledge, O, Lord, that all I do or can ſuffer, is but the <hi>due reward</hi> of my Deeds; and therefore in thy moſt <hi>ſevere Inflictions,</hi> I muſt ſtill ſay righteous art thou, O Lord, and <hi>upright</hi> are thy <hi>Judgments.</hi>
+               </p>
+               <p>But, O Lord! I beſeech thee in <hi>Wrath</hi> re<g ref="char:EOLhyphen"/>member <hi>Mercy,</hi> and though my
+<hi>Sins</hi> have en<g ref="char:EOLhyphen"/>forced thee to <hi>ſtrike,</hi> yet conſider, my <hi>weak<g ref="char:EOLhyphen"/>neſs,</hi>
+                  <pb n="22" facs="tcp:151732:12"/> and let not thy <hi>ſtripes</hi> be more <hi>heavy,</hi> or more
+<hi>laſting</hi> than thou ſeeſt profitable for my <hi>Soul. Correct</hi> me, but with the
+<hi>Chaſtiſements</hi> of a <hi>Father,</hi> not with the <hi>Wounds</hi> of an <hi>Enemy;</hi> and tho' thou take not <hi>off</hi> thy <hi>Rod,</hi> yet take away thine <hi>Anger.</hi> Lord do not <hi>abhor</hi> my <hi>Soul,</hi> nor caſt thy <hi>Servant</hi> away in
+<hi>diſpleaſure,</hi> but Par<g ref="char:EOLhyphen"/>don my <hi>Sins</hi> I beſeech thee, and if yet in thy
+<hi>Fatherly</hi> Wiſdom thou ſeeſt fit to <hi>prolong</hi> thy <hi>Corrections,</hi> thy bleſſed <hi>Will</hi> be <hi>done.</hi> I caſt my ſelf, O Lord, at thy <hi>Feet!</hi> do with me what thou pleaſeſt! try me as <hi>Silver</hi> is try<g ref="char:EOLhyphen"/>ed, ſo thou bring me out
+<hi>purified.</hi> And, Lord! make even my <hi>Fleſh</hi> alſo ſubſcribe to this
+<hi>Reſignation,</hi> that there may be nothing in me that may <hi>rebel</hi> againſt thy
+<hi>Hand;</hi> but that having perfectly ſuppreſt all <hi>repining Thoughts,</hi> I may chearfully <hi>drink</hi> of this <hi>Cup.</hi> And how <hi>bitter</hi> ſoever thou ſhalt pleaſe to make it, Lord let it prove <hi>Medicinal,</hi> and cure all the <hi>Diſeaſes</hi> of my <hi>Soul,</hi> that it may bring forth in me the peaceable Fruits of
+<hi>Righteouſneſs;</hi> that ſo theſe <hi>light Afflictions</hi> which are but for a
+<hi>moment,</hi> may work for me a far more ex<g ref="char:EOLhyphen"/>ceeding and eternal weight of Glory, thro' Jeſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="sickness" type="Psalms">
+               <head>Pſalms to be uſed in Sickneſs.</head>
+               <p>In thee, O Lord, have I put my <hi>Truſt,</hi> let me never be put to <hi>confuſion:</hi> but rid me and deliver me in thy <hi>Righteouſneſs;</hi> incline thine <hi>Ear</hi> unto me and
+<hi>ſave</hi> me.</p>
+               <p>Be thou my <hi>ſtrong hold,</hi> whereunto I may always <hi>reſort:</hi> thou haſt promiſed to help me, for thou art my <hi>Houſe</hi> of <hi>Defence</hi> and my
+<hi>Caſtle.</hi>
+               </p>
+               <p>Deliver me, O Lord God, out of the hand
+<pb n="23" facs="tcp:151732:12"/> of the <hi>ungodly;</hi> out of the hand of the <hi>unrigh<g ref="char:EOLhyphen"/>teous</hi> and
+<hi>cruel</hi> Man.</p>
+               <p>For thou, O Lord God, art the thing that I <hi>long</hi> for: thou art my <hi>hope</hi> even from my <hi>Youth.</hi>
+               </p>
+               <p>Through thee have I been <hi>holden</hi> up ever ſince I was <hi>born:</hi> thou art he that took me out of my Mothers <hi>Womb,</hi> my Praiſe ſhall be always of thee.</p>
+               <p>I am become as a <hi>Monſter</hi> unto many: but my ſure <hi>truſt</hi> is in thee.</p>
+               <p>O let my <hi>mouth</hi> by filled with thy <hi>Praiſe:</hi> that I may ſing of thy
+<hi>Glory</hi> and <hi>Honour</hi> all the day long.</p>
+               <p>Caſt me not away in the time of [my <hi>mi<g ref="char:EOLhyphen"/>ſery</hi>] neither <hi>forſake</hi> me when my
+<hi>ſtrength</hi> faileth me.</p>
+               <p>Go not far from me, O God: my God <hi>haſt</hi> thee to help me.</p>
+               <p>Forſake me not, O my God, until I have ſhewed thy ſtrength unto this Generation, and thy power unto all them that are yet to come.</p>
+               <p>Thy Righteouſneſs, O God, is very high: and great things are they that thou haſt done, O God, who is like unto thee?</p>
+            </div>
+            <div n="sickness" type="prayer">
+               <head>Ejaculations in Sickneſs.</head>
+               <p>O <hi>Saviour</hi> of the World, who by thy <hi>Croſs</hi> and precious <hi>Blood</hi> haſt
+<hi>redeemed</hi> me, ſave and help me, I humbly beſeech thee.</p>
+               <p>Father, I have ſinned againſt <hi>Heaven</hi> and before thee, and am no more
+<hi>worthy</hi> to be called thy <hi>Son;</hi> yet do not caſt off the <hi>Bowels</hi> and
+<hi>Compaſſion</hi> of a Father: But as a Father <hi>pittieth</hi> his own Children, ſo be thou <hi>merciful</hi> unto me.</p>
+               <p>O Lord! of whom may I ſeek for for <hi>ſuccour</hi>
+                  <pb n="24" facs="tcp:151732:13"/> but of thee, who for my Sins art juſtly diſ<g ref="char:EOLhyphen"/>pleaſed! Yet, O Lord God moſt Holy! O Lord moſt mighty! O Holy and moſt Merci<g ref="char:EOLhyphen"/>ful Saviour, deliver me not into the bitter Pains of <hi>eternal Death,</hi> neither ſuffer me at my <hi>laſt hour</hi> for any
+<hi>Pains</hi> of <hi>Death,</hi> to fall from thee.</p>
+               <p>O Lord in thee have I truſted, let me never be confounded. Into thy hands I commend my Spirit, for thou haſt <hi>red<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emed</hi> me O Lord thou God of Truth. Come Lord Jeſus come quickly.</p>
+               <p n="4">4. If it ſhall pleaſe God to <hi>reſtore</hi> you to <hi>Health</hi> again, have a care you don't forget you <hi>Sickneſs,</hi> and the <hi>Promiſes</hi> you then made to lead a
+<hi>better life,</hi> which God will never <hi>forget,</hi> though you may perhaps do it. When you are tempted to any <hi>Sin,</hi> ask your own Soul whether it would be a handſom return to him, who ſo lately ſaved your Life, ſo ſoon to rebe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> againſt him. And every <hi>Evening</hi> examin your ſelf, how you have performed thoſe <hi>Vows</hi> which you made in your <hi>Trouble.</hi>
+               </p>
+               <p>If you love your <hi>Country, Victory, Glory,</hi> live <hi>Holy Lives,</hi> for the
+<hi>Engliſh-mans Sins</hi> are his moſt <hi>formidable Enemies.</hi>
+               </p>
+               <p>
+                  <hi>Swearing</hi> is <hi>unprofitable, Lewdneſs</hi> is <hi>damna<g ref="char:EOLhyphen"/>ble, Theft</hi> is
+<hi>baſe, Cruelty</hi> is <hi>inhuman, and Cowardie</hi> fit for none but <hi>Traytors.</hi>
+               </p>
+               <p>
+                  <hi>Fight</hi> the good <hi>Fight!</hi> keep the <hi>Truth!</hi> lay hold on <hi>Eternal Life</hi> — From henceforth there is laid up for you a <hi>Crown</hi> of
+<hi>Righteouſneſs,</hi> which the Lord the <hi>righteous Judge</hi> ſhall give to all thoſe that love his <hi>Appearance.</hi>
+               </p>
+               <p>
+                  <hi>The Grace of our Lord Jeſus Chriſt be with you all.</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
